@@ -22,7 +22,7 @@ I am a passionate Full Stack Web Developer currently immersed in the MERN (Mongo
 ### Project 1: [Myntra Clone](https://calm-malasada-c0860b.netlify.app)(Click here to explore the website)
 [<img src="https://images2.imgbox.com/c0/b8/9A3OPB3n_o.jpg" height="300" alt="linkedin logo"  />](https://youtu.be/b2xNnRaI3_M)
 
-Welcome to the Myntra Website Clone project, a meticulously crafted replica of the popular online fashion destination. Dive into the realm of cutting-edge web development as we recreate Myntra's signature features and functionalities.
+Welcome to the Myntra Website Clone project, a meticulously crafted replica of the popular online fashion destination. Dive into the realm of cutting-edge web development as we recreate Myntra's signature features and functionalities. 
 
 ### Project 2: [BigBasket Clone]()
 ![Project 2](URL to Project 2 Image)
