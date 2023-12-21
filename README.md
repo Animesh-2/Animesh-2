@@ -29,9 +29,9 @@ Description of Project 2.
 Currently, I am actively learning React to enhance my front-end development skills.
 
 ## Connect with Me
-- [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/animesh-singh-0bb22418b/)
-- [Portfolio](Link to your portfolio or personal website)
-- [Twitter](Link to your Twitter profile)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/animesh-singh-0bb22418b/)  
+[<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />](https://www.instagram.com/animeshsingrol/)
+[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](https://mail.google.com/mail/animeshsingrol@gmail.com)
 
 Feel free to reach out if you have any questions or if you want to collaborate on exciting projects!
 
