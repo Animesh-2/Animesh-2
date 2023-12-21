@@ -35,6 +35,6 @@ Currently, I am actively learning React to enhance my front-end development skil
 
 Feel free to reach out if you have any questions or if you want to collaborate on exciting projects!
 
-[![Visits Badge](https://badges.pufler.dev/visits/Animesh-2/Animesh-2)](YourGitHubProfileLink)
+[![Visits Badge](https://badges.pufler.dev/visits/Animesh-2/Animesh-2)](https://github.com/Animesh-2)
 
 
