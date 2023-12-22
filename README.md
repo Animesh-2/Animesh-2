@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Animesh Singh</h1>
 
-<h3 align="center">I am a passionate Full Stack Web Developer currently immersed in the MERN stack <h3/>
+<h3 align="center">A passionate Full Stack Web Developer currently immersed in the MERN stack <h3/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&random=false&width=435&lines=Full-Stack+web+Developer" alt="Typing SVG" /></a>
   
 <img width="450px" align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image">
@@ -12,6 +12,9 @@
 - **Database:** MongoDB
 - **APIs:** JSON Server
 - **Problem Solving:** Solved 650+ problems in Data Structures and Algorithms (DSA)
+<hr/>
+
+- 📄 Click here to Watch my Resume [Resume](https://drive.google.com/file/d/1g5JAMhaQuJQGt3V5Qi7hVmdtOSzsKpby/view?usp=sharing)
 
 ## <h3 align="left">Tech Stacks and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/180px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZ0riCrFk0RtnY6Jf-ApEtw8RRL2_OaOfRQ&usqp=CAU" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40"/> </a> <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="40" height="40"/></a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="GitHub" width="40" height="40"/></a>
