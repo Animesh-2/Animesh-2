@@ -1,9 +1,10 @@
-### Hi there 👋  My name is Animesh Singh, a passionate Full Stack Web Developer with a love for turning ideas into digital experiences. 💻
+<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Animesh Singh</h1>
 
-I am a passionate Full Stack Web Developer currently immersed in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in coding has equipped me with skills in Java, JavaScript, HTML, CSS, and server-side API patching using JSON.
+<h3 align="center">I am a passionate Full Stack Web Developer currently immersed in the MERN stack <h3/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&random=false&width=435&lines=Full-Stack+web+Developer" alt="Typing SVG" /></a>
+  
 
-###
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img width="450px" align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image">
 
 ## Skills
 
