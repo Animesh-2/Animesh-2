@@ -11,7 +11,7 @@
 - **Web Technologies:** HTML, CSS, React
 - **Database:** MongoDB
 - **APIs:** JSON Server
-- **Problem Solving:** Solved 650+ problems in Data Structures and Algorithms (DSA)
+- **Problem Solving:** Solved 500+ problems in Data Structures and Algorithms (DSA)
 <hr/>
 
 - 📄 Click here to Watch my Resume [Resume](https://drive.google.com/file/d/1g5JAMhaQuJQGt3V5Qi7hVmdtOSzsKpby/view?usp=sharing)
