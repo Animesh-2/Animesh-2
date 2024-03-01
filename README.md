@@ -8,7 +8,7 @@
 ## Skills
 
 - **Languages:** Java, Javascript
-- **Web Technologies:** HTML, CSS, React
+- **Web Technologies:** HTML, CSS, React.js, Redux, Express.js
 - **Database:** MongoDB
 - **APIs:** JSON Server
 - **Problem Solving:** Solved 500+ problems in Data Structures and Algorithms (DSA)
