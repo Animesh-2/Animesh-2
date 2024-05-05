@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Animesh Singh</h1>
 
-<h3 align="center">A passionate Full Stack Web Developer currently immersed in the MERN stack <h3/>
+<h3 align="center">A passionate Full Stack Web Developer  <h3/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&random=false&width=435&lines=Full-Stack+web+Developer" alt="Typing SVG" /></a>
   
 <img width="450px" align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image">
