@@ -14,7 +14,7 @@
 - **Problem Solving:** Solved 500+ problems in Data Structures and Algorithms (DSA)
 <hr/>
 
-- 📄 Click here to Watch my Resume [Resume](https://drive.google.com/file/d/1g5JAMhaQuJQGt3V5Qi7hVmdtOSzsKpby/view?usp=sharing)
+- 📄 Click here to Watch my Resume [Resume](https://drive.google.com/file/d/1bEylJcZqNbFvR8rGW69l_X7QhQ3RaLCm/view?usp=sharing)
 - 📄 Portfolio Link [Click Here](https://animesh-2.github.io/)
 
 ## <h3 align="left">Tech Stacks and Tools:</h3>
