@@ -12,7 +12,7 @@
     <a href="https://linkedin.com/in/animesh-singh-0bb22418b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:animeshsingrol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://animesh-2.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://drive.google.com/file/d/1bEylJcZqNbFvR8rGW69l_X7QhQ3RaLCm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+    <a href="https://drive.google.com/drive/folders/1615JIvOPbXAqHOCGcDSBY9J3cu4DKAxI"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   </p>
 </div>
 
